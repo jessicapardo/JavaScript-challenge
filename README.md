@@ -34,7 +34,7 @@ To view [Data](UFO-level-1/static/js/data.js)
   4. `country`
   5. `shape`
 
-  ![Level 2 final app](UFO-level-2/static/images/final_app.png')
+  ![Level 2 final app](UFO-level-2/static/images/final_app.png)
 
 To view the [JavaScript Code](UFO-level-2/static/js/app.js)
 To view the [HTML code](UFO-level-2/index.html)
