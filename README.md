@@ -1,8 +1,8 @@
-# JavaScript-challenge - - JavaScript and DOM Manipulation
+# JavaScript-challenge - JavaScript and DOM Manipulation
 
 # ALIENS-R-REAL ?
 
-![UFO]('UFO-level-2\static\images\nasa_ufo.png')
+![UFO](UFO-level-2/static/images/nasa_ufo.png)
 
 ## Background
 
@@ -19,11 +19,11 @@ To solve this problem,a dynamic javascript and DOM manipulation was created to a
 * Finally date/time, city, state, country, shape, and comment columns was created.
 * On this part we displayed a form with a filtering option that uses the date/time column to find rows that match user input.
 
-![Level 1 final app]('UFO-level-1\static\images\final_app.png')
+![Level 1 final app](UFO-level-1/static/images/final_app.png)
 
-To view the [JavaScript Code]('UFO-level-1\static\js\app.js')
-To view the [HTML code]('UFO-level-1\index.html')
-To view [Data]('UFO-level-1\static\js\data.js')
+To view the [JavaScript Code](UFO-level-1/static/js/app.js)
+To view the [HTML code](UFO-level-1/index.html)
+To view [Data](UFO-level-1/static/js/data.js)
 
 ### Level 2: Multiple Search Categories
 
@@ -34,11 +34,11 @@ To view [Data]('UFO-level-1\static\js\data.js')
   4. `country`
   5. `shape`
 
-  ![Level 2 final app]('UFO-level-2\static\images\final_app.png')
+  ![Level 2 final app](UFO-level-2/static/images/final_app.png')
 
-To view the [JavaScript Code]('UFO-level-2\static\js\app.js')
-To view the [HTML code]('UFO-level-2\index.html')
-To view [Data]('UFO-level-2\static\js\data.js')
+To view the [JavaScript Code](UFO-level-2/static/js/app.js)
+To view the [HTML code](UFO-level-2/index.html)
+To view [Data](UFO-level-2/static/js/data.js)
 
 ### Copyright
 
